@@ -1,4 +1,7 @@
-# test
-test
+# 20210723 Git 활용법 Study
 
- - JoSoHyun
+## 참가자
+
+- 홍제준
+- 조소현
+- 김지훈
