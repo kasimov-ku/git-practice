@@ -1,6 +1,12 @@
 #include <iostream>
+#include <cstring>
 using namespace std;
 
-int main(){
-	cout << "홍제준" << endl;
+int main (){
+    string str;
+    cin >> str;
+    cout << str << endl;
+    return 0;
+
+//edit test
 }
