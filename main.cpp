@@ -1,12 +1,9 @@
 #include <iostream>
+#include <cstring>
 using namespace std;
+
 
 int main()
 {
-	cout << "조소현" << endl;
-}
-
-int change()
-{
-	return 0;
+	cout << "YEAH" << endl;
 }
