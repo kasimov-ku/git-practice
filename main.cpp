@@ -1,6 +1,8 @@
 #include <iostream>
+#include <cstring>
 using namespace std;
 
-int main(){
-	cout << "조동민" << endl;
+int main()
+{
+	cout << "YEAH" << endl;
 }
